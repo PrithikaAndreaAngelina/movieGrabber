@@ -3,15 +3,15 @@
 This program will take input of movie names.
 the following result will be displayed:
 
-*Title
-*Year
-*imdbID
-*Type
-*Poster
-*Total results
-*Response
+* Title
+* Year
+* imdbID
+* Type
+* Poster
+* Total results
+* Response
 
-##NOTE: Makes use of movie database API inside RapidAPI 
+## NOTE: Makes use of movie database API inside RapidAPI 
 
-##Additional changes:
+## Additional changes:
 Working on printing the result in a more organized way
