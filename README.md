@@ -11,6 +11,10 @@ the following result will be displayed:
 * Total results
 * Response
 
+##DEPENDENCIES:
+* Programming language => Python 3.9.5
+* Packages => requests
+
 ## NOTE: Makes use of movie database API inside RapidAPI 
 
 ## Additional changes:
