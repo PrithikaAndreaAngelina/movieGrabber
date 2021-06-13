@@ -11,7 +11,7 @@ the following result will be displayed:
 * Total results
 * Response
 
-##DEPENDENCIES:
+## DEPENDENCIES:
 * Programming language => Python 3.9.5
 * Packages => requests
 
