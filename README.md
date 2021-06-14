@@ -18,5 +18,5 @@ the following results can be obtained for the respective movies:
 ## NOTE: This program makes use of movie database API inside RapidAPI, which can be found through the following link:https://rapidapi.com/rapidapi/api/movie-database-imdb-alternative
 
 ## SAMPLE OUTPUT:
-![Movie_Grabber Sample Output](https://www.dropbox.com/s/x62sea3gbldqnau/Movie_Grabber.png?dl=0)
+![Movie_Grabber Sample Output](https://dl.dropboxusercontent.com/s/x62sea3gbldqnau/Movie_Grabber.png?dl=0)
 
