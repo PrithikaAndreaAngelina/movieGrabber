@@ -1,7 +1,7 @@
 # movieGrabber
 
 This program will take input of movie names.
-the following result will be displayed:
+the following results can be obtained for the respective movies:
 
 * Title
 * Year
