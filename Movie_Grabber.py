@@ -15,7 +15,7 @@ parameters['s']=movie
 
 
 headers = {
-    'x-rapidapi-key': "Enter your AOI key: ", #API key can be obtained by subscribing to the below host
+    'x-rapidapi-key': "Enter your API key: ", #API key can be obtained by subscribing to the below host
     'x-rapidapi-host': "movie-database-imdb-alternative.p.rapidapi.com"
 }
 
