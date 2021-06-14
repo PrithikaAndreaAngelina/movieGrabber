@@ -13,7 +13,7 @@ the following result will be displayed:
 
 ## DEPENDENCIES:
 * Programming language => Python 3.9.5
-* Packages => requests
+* Packages => requests,json
 
 ## NOTE: Makes use of movie database API inside RapidAPI 
 
